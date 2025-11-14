@@ -13,5 +13,4 @@ Ben Death Empress, ya da kısaca Empress / Я — Death Empress, или прос
 - 🧠 İlgi alanlarım / Мои интересы: **Yazılım Geliştirme/Программирование**, **Çizim/Pисование**, **Müzik/Mузыка**
 - 🌱 Şu an öğreniyorum / Сейчас изучаю: **C++**, **Tersine Mühendislik/Pеверс-инжиниринг**
 - ♟️ Felsefe / Эстетика: *"Hayat açık kaynak kodudur."*/*“Жизнь — открытый код.”*
-- 📨 Bana ulaş / Связь: **c17h27no2@proton.me**
 
